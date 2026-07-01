@@ -1,0 +1,3 @@
+AI Customer Support Dashboard
+
+An end-to-end AI-powered customer support system built with React, Express.js, n8n, and Google Sheets. The application automatically converts incoming emails into support tickets and displays them in a live dashboard. The project is currently optimized for local development, with cloud deployment planned in the next phase.
